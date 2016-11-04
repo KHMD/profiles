@@ -3,22 +3,31 @@ layout: post-index
 title: Meet the team
 description: "Describe this nonsense."
 ---
-
-<h1> WE ARE KHMD </h1>
-<br>
-
-{% for member in site.members %}
-
-<div class="col-xs-3 col-md-3 col-lg-2">
-
-    {% if member.image.profile %}
-        <a href="{{ site.url }}{{ member.url }}" class="thumbnail">
-            <img class="img-rounded" src="{{ site.url }}/images/{{ member.image.profile }}" alt="{{ member.title }}">
-        </a>
-    {% endif %}
-    <h3><a href="{{ site.url }}{{ member.url }}" title="{{ member.title }}">{{ member.title }}</a></h3>
-    <p> {{member.description}} </p>
-
+<nav class="navlink">
+    <a href="https://khmd.github.io"><span class = "glyphicon glyphicon-chevron-left"></span>KHMD Home</a>
+</nav>
+<div class = "jumbotron lander">
+    <div class = "container">
+        <header>
+            <h1>WE ARE<br /><img class="logo" src="images/logo.png"><br /><span data-target-resolver></span><br>&nbsp;</h1>
+        </header>
+    </div>
 </div>
-
-{% endfor %}
+<div class = "jumbo"> <h1> Meet the Team </h1> </div>
+<div class = "jumbotron members-list">
+    <div class = "container">
+        <div class = "row">
+            {% for member in site.members %}
+            <div class="col-xs-12 col-sm-6 col-md-4 member">
+                {% if member.image.profile %}
+                <a href="{{ site.url }}{{ member.url }}">
+                    <img class="img-circle" src="{{ site.url }}/images/{{ member.image.profile }}" alt="{{ member.title }}">
+                </a>
+                {% endif %}
+                <h3><a href="{{ site.url }}{{ member.url }}" title="{{ member.title }}">{{ member.title }}</a></h3>
+                <p> {{member.description}} </p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

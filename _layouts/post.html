@@ -3,7 +3,7 @@
 <!--s[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="en">
+<html lang="en">
 <!--<![endif]-->
 <head>
     {% include head.html %}
@@ -12,18 +12,35 @@
 <body id="post">
 
     {% include browser-upgrade.html %}
-
-    <div class="jumbotron">
-        <div class="container">
-            <div class = "row">
-                <div class="col-xs-3 col-md-3 col-lg-2 thumbnail">
-                    <img class="img-circle" src="{{ site.url }}/images/{{ page.image.profile }}" alt="{{ member.title }}">
-                </div>
+    <div class="container">
+        <h1 class="page-heading"><img class="logo" src="../images/logo.png">Member Profile</h1>
+        <div class="jumbotron member-profile">
+            <div class="container member-header">
+                <header>
+                    <div class="row">
+                        <div class="col-sm-3 col-md-3 avatar">
+                            <img class="img-circle" src="{{ site.url }}/images/{{ page.image.profile }}" alt="{{ member.title }}">
+                        </div>
+                        <div class="col-sm-9 col-md-9 meta-info">
+                            <h1>{{ page.title }}</h1>
+                            <h4>{{ page.description }}</h4>
+                            {% if page.batch %}
+                            <h4>Batch: {{ page.batch }}</h4>
+                            {% endif %}
+                            {% if page.current %}
+                            <h4>Currently: {{ page.current }}</h4>
+                            {% endif %}
+                        </div>
+                    </div>
+                </header>
             </div>
-            {{ content }}
+            <div class="container member-article">
+                <article>
+                {{ content }}
+                </article>
+            </div>
         </div>
     </div>
-
     {% include footer.html %}
 
     {% include scripts.html %}
