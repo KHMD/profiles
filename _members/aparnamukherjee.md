@@ -18,9 +18,12 @@ Aided by YouTube and tons and tons of Photoshop and Illustrator help books I try
 
 ### Achievements : 
 
-Selected to attend the Duke TiP summer studies three week course at Infosys, Mysore as an asset talent scholar 
+1. Selected to attend the Duke TiP summer studies three week course at Infosys, Mysore as an asset talent scholar 
+
 2. Scholarship to study German for three weeks at Sankt Peter Ording
+
 3. Won the Nationale Deutscholympiade in the level B1 and represented India at the Internationale Deutscholympiade
+
 4. Formulated a project to be implemented in the city for the betterment of children and youth in small schools and orphanages as a part of a team, which was approved for funding by the PASCH network of schools.
 
 ### Projects: 

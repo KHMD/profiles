@@ -21,10 +21,15 @@ I was always interested in making things, and I struggled a lot in figuring out 
 ### Projects: 
 
 1. Scratch built and flew RC aircrafts (2012) - was a huge learning experience, aircraft crashed multiple times.
+
 2. Built a Peltier electric water condenser along with Adhesh Shenoy, that allowed us to draw water from the atmosphere, took this to the CBSE science fair. (2013)
+
 3. Built a virtual reality headset as a part of KHMD
+
 4. Smart Dustbin : Built a prototype of a dustbin that accomplishes 2 new things. 1. Helps user subconsciously segregate waste by designing the bin itself in that way. 2. Let’s the cleaning staff track a network of dustbin hence reducing commute time and resources. Done in association with Reap Benefit (May 2015)
+
 5. Started up a design firm; 'Keno design' - No longer functional (2014)
+
 6. Worked with Reap Benefit on some Arduino and sensor based innovation like a smart water flow meter, and design solutions for mapping switches to their appliances. (June 2016 - current)
 
 

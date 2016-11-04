@@ -21,9 +21,13 @@ Qualified for the CBSE National Science Fair with Ish Bosamiya
 ### Projects: 
 
 1. Built the hot wire cutter in 8th along with Ish Bosamiya and Sai Anirudh. Also made a failed Stirling Engine (almost worked).
+
 2. Made a prototype of a 3D Printing Pen in 10th.
+
 3. Designed and built a weather and soil analysis machine along with Ish Bosamiya that made it to CBSE National Science Fair.
+
 4. Trying to make a prototype to allow the blind to see, it’s crazy I know.
+
 5. Working Stirling Engine with self made design
 
 ### Past interests : 

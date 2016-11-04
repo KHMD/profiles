@@ -15,10 +15,15 @@ I liked computer science and tech stuff since I was very young. I got exposed to
 ### Projects: 
 
 1. Made a small movie titled 'Gadgets of Tomorrow' along with Kaushik Simha (Jan 2013).
+
 2. Made a presentation titled 'Greatest Discoveries in Physics' along with Nihal Shetty (Jan 2014).
+
 3. Created and managed music disks for Emerald play (LitFest 2013, 2014).
+
 4. Created and managed backdrop for 'Tamasoma Jyotirgamaya' (School Day 2014).
+
 5. Directed and produced 'Jarvis Dance Vfx' along with Ashwin Joisa & Parth Bhatia (Interface 2015).
+
 6. Organised and conducted Chrysovenquest - The Logical Treasure Hunt along with Ashwin Joisa, Sagar B. M. & Pratyush Singh (Interface 2015, LitFest 2016).
 
 ### Past interests : 

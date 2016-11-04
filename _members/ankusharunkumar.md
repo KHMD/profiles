@@ -19,8 +19,11 @@ Best Hack for “Road Safety” @ SocioHacks by HackerEarth.
 ### Projects: 
 
 1. BattleShip: A game built using <graphics.h> along with Pranav Iyer. (March 2015)
+
 2. FoodFad: An app which strives to give a personalized diet experience, providing tasty and healthy solutions using a set of inputs. Basically a recommendation engine with a tinge of Machine Learning. (Aug 2016-)
+
 3. HairpinSaver: IoT based project using Arduino to be used in hilly areas for basic guidance of vehicles on the either side of a Hair Pin Bend. (July 2016) 
+
 4. Head of Technology for KMUN 2016. 
 
 ### Past interests : 
