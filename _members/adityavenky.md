@@ -5,7 +5,7 @@ description: Amateur coder, Robotics enthusiast, Hardcore 'Maker'(recently)
 batch: Class of 2016
 current: Studying at IIT Bombay
 image: 
-    profile: "venky.jpg"
+    profile: "venky.jpeg"
 published: false
 ---
 
@@ -26,7 +26,7 @@ Nothing Significant
 
 1. KMUN Moderator App - Contributed ideas and code to the Moderator application developed for KMUN along with Sriram Desai, Arjun Rao and Gautam Padiyar (June 2015)
 
-2. Bash for Windows - Co-created the interactive Linux Terminal and GUI which quite simply, teaches you the basic commands for Linux (September 2015- Jan 2016) with Gautam Padiyar.
+2. Bash for Windows - Co-created the interactive Linux Terminal and GUI which quite simply, teaches you the basic commands for Linux terminal (September 2015- Jan 2016) with Gautam Padiyar.
 
 3. Worked on XLR8 : Building an RC Bot which traverses a certain track in the least amount of time. Failed to completely make it work. (August 2016)
 
