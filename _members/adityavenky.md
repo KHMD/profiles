@@ -6,7 +6,7 @@ batch: Class of 2016
 current: Studying at IIT Bombay
 image: 
     profile: "venky.jpeg"
-published: false
+published: true
 ---
 
 ### Story: 
