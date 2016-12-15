@@ -1,3 +1,4 @@
+// revolving text effect from https://codepen.io/qkevinto/pen/WQVNWO
 'use strict';
 var resolver = {
     resolve: function resolve(options, callback) {
